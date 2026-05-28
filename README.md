@@ -16,16 +16,11 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const prisha = {
-  pronouns    : "she/her",
-  location    : "🌍 Earth",
-  currentWork : "awesome full-stack projects",
-  learning    : ["new frameworks", "system design", "open source"],
-  askMeAbout  : ["React", "Node.js", "databases", "web performance"],
-  funFact     : "I debug with console.log and I'm not ashamed 🙃"
-};
-```
+- 🔭 Currently working on **awesome full-stack projects**
+- 🌱 Always exploring **new frameworks & tools**
+- 💬 Ask me about **React, Node.js, databases**
+- 🤝 Open to **collaborating on interesting projects**
+- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed
 
 
 ---
