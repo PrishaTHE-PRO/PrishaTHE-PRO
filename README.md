@@ -14,16 +14,27 @@
 
 ---
 
-<!-- ABOUT ME -->
 ## 🧑‍💻 About Me
+
+```javascript
+const prisha = {
+  pronouns    : "she/her",
+  location    : "🌍 Earth",
+  currentWork : "awesome full-stack projects",
+  learning    : ["new frameworks", "system design", "open source"],
+  askMeAbout  : ["React", "Node.js", "databases", "web performance"],
+  funFact     : "I debug with console.log and I'm not ashamed 🙃"
+};
+```
 
 - 🔭 Currently working on **awesome full-stack projects**
 - 🌱 Always exploring **new frameworks & tools**
+- 💬 Ask me about **React, Node.js, databases**
 - 🤝 Open to **collaborating on interesting projects**
-- I debug with console.log and I'm not ashamed 🙃
+- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed
+
 ---
 
-<!-- MY GITHUB HISTORY -->
 ## ⎔ My GitHub History
 
 <div align="center">
@@ -42,7 +53,6 @@
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
 ## 🐍 Contribution Graph
 
 > *The snake feasts on my contributions...*
@@ -55,7 +65,6 @@
 
 ---
 
-<!-- TECH STACK — using shields.io badges -->
 ## ⚙️ Tech Stack
 
 **Frontend**
