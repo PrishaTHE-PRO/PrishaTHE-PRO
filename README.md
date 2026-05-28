@@ -27,11 +27,6 @@ const prisha = {
 };
 ```
 
-- 🔭 Currently working on **awesome full-stack projects**
-- 🌱 Always exploring **new frameworks & tools**
-- 💬 Ask me about **React, Node.js, databases**
-- 🤝 Open to **collaborating on interesting projects**
-- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed
 
 ---
 
@@ -39,9 +34,14 @@ const prisha = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrishaTHE-PRO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrishaTHE-PRO&theme=github_dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrishaTHE-PRO&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrishaTHE-PRO&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrishaTHE-PRO&theme=github_dark" />
 
 </div>
 
