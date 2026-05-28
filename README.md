@@ -36,7 +36,14 @@ const prisha = {
 <!-- MY GITHUB HISTORY -->
 ## ⎔ My GitHub History
 
+<div align="center">
 
+
+
+
+</div>
+
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PrishaTHE-PRO&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&dates=8b949e)](https://git.io/streak-stats)
 
