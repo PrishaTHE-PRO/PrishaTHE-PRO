@@ -41,13 +41,11 @@
 
 ---
 
-## 🐍 Contribution Graph
-
-> *The snake feasts on my contributions...*
+## 📅 Contribution Graph
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/PrishaTHE-PRO/PrishaTHE-PRO/output/github-contribution-grid-snake.svg)
+![Contribution Graph](https://ghchart.rshah.org/58a6ff/PrishaTHE-PRO)
 
 </div>
 
