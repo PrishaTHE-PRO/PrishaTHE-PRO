@@ -17,20 +17,10 @@
 <!-- ABOUT ME -->
 ## 🧑‍💻 About Me
 
-```javascript
-const prisha = {
-  pronouns    : "she/her",
-  currentWork : "awesome full-stack projects",
-  learning    : ["new frameworks", "system design", "open source"],
-  askMeAbout  : ["photography", "databases", "web performance"],
-  funFact     : "I debug with console.log and I'm not ashamed 🙃"
-};
-```
-
 - 🔭 Currently working on **awesome full-stack projects**
 - 🌱 Always exploring **new frameworks & tools**
 - 🤝 Open to **collaborating on interesting projects**
-
+- I debug with console.log and I'm not ashamed 🙃
 ---
 
 <!-- MY GITHUB HISTORY -->
