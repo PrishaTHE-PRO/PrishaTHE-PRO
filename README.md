@@ -29,14 +29,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrishaTHE-PRO&theme=github_dark" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrishaTHE-PRO&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrishaTHE-PRO&theme=github_dark" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrishaTHE-PRO&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
