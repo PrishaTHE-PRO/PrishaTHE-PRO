@@ -59,7 +59,7 @@ const prisha = {
 
 <div align="center">
 
-![Snake animation](https://github.com/PrishaTHE-PRO/PrishaTHE-PRO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/PrishaTHE-PRO/PrishaTHE-PRO/output/github-contribution-grid-snake.svg)
 
 </div>
 
