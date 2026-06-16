@@ -16,7 +16,7 @@
 
 CS student who loves building full-stack projects and shipping things that actually work. I'm always chasing whatever framework or tool looks interesting next. Big on clean code, good UX, and collaborating with people who give a damn about what they build.
 
-Active on GitHub, hit me up if you want to collab or just talk tech.
+Active on GitHub — hit me up if you want to collab or just talk tech.
 
 ---
 
@@ -25,10 +25,6 @@ Active on GitHub, hit me up if you want to collab or just talk tech.
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrishaTHE-PRO&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PrishaTHE-PRO&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&dates=8b949e)](https://git.io/streak-stats)
 
