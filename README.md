@@ -7,22 +7,6 @@
 
 **`Full-Stack Developer // building things that live on the internet`**
 
-## ⎔ My GitHub History
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrishaTHE-PRO&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=PrishaTHE-PRO&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&dates=8b949e)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## ⚙️ Tech Stack
 
 **Frontend**
