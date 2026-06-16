@@ -14,9 +14,9 @@
 
 ---
 
-CS student who loves building full-stack projects and shipping things that actually work. I'm most at home with React and Node.js, but I'm always chasing whatever framework or tool looks interesting next. Big on clean code, good UX, and collaborating with people who give a damn about what they build.
+CS student who loves building full-stack projects and shipping things that actually work. I'm always chasing whatever framework or tool looks interesting next. Big on clean code, good UX, and collaborating with people who give a damn about what they build.
 
-Active on GitHub — hit me up if you want to collab or just talk tech.
+Active on GitHub, hit me up if you want to collab or just talk tech.
 
 ---
 
@@ -43,9 +43,5 @@ Active on GitHub — hit me up if you want to collab or just talk tech.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prisha-agarwalla-126a15285/)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrishaTHE-PRO)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pagarwalla@wisc.edu)
-
----
-
-<sub>✦ Made with 💙 and too much coffee by **PrishaTHE-PRO** ✦</sub>
 
 </div>
