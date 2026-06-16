@@ -7,24 +7,6 @@
 
 **`Full-Stack Developer // building things that live on the internet`**
 
-![Profile Views](https://komarev.com/ghpvc/?username=PrishaTHE-PRO&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/PrishaTHE-PRO?style=flat-square&color=58a6ff&labelColor=161b22&label=followers)](https://github.com/PrishaTHE-PRO)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-- 🔭 Currently working on **awesome full-stack projects**
-- 🌱 Always exploring **new frameworks & tools**
-- 💬 Ask me about **React, Node.js, databases**
-- 🤝 Open to **collaborating on interesting projects**
-- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed
-
-
----
-
 ## ⎔ My GitHub History
 
 <div align="center">
