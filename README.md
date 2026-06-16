@@ -7,33 +7,32 @@
 
 **`Full-Stack Developer // building things that live on the internet`**
 
-## ⚙️ Tech Stack
+![Profile Views](https://komarev.com/ghpvc/?username=PrishaTHE-PRO&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/PrishaTHE-PRO?style=flat-square&color=58a6ff&labelColor=161b22&label=followers)](https://github.com/PrishaTHE-PRO)
 
-**Frontend**
+</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=000)
+---
 
-**Backend & Database**
+CS student who loves building full-stack projects and shipping things that actually work. I'm most at home with React and Node.js, but I'm always chasing whatever framework or tool looks interesting next. Big on clean code, good UX, and collaborating with people who give a damn about what they build.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=fff)
+Active on GitHub — hit me up if you want to collab or just talk tech.
 
-**Tools & DevOps**
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=000)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
+## ⎔ My GitHub History
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrishaTHE-PRO&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=PrishaTHE-PRO&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&dates=8b949e)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
