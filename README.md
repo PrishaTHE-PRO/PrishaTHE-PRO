@@ -7,6 +7,8 @@ I'm a CS student who loves to code!
 
 I work mostly in Python but I'm well-versed in Go, Java, and Swift too. Always looking for the next interesting tool or framework to mess around with. Hit me up if you want to collab.
 
+Currently working on: LinkStash & BluPrint
+
 I'm pretty active on GitHub, so reach out if you want to collab or just talk tech!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prisha-agarwalla-126a15285/)
