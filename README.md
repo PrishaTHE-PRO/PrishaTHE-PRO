@@ -5,9 +5,9 @@
 ### Hi, I'm Prisha
 I'm a CS student who loves to code!
 
-I work mostly in Python but I'm well-versed in Go, Java, and Swift too. Always looking for the next interesting tool or framework to mess around with. Hit me up if you want to collab.
+I work mostly in Python. Always looking for the next interesting tool or framework to mess around with. Hit me up if you want to collab!
 
-Currently working on: BluPrint
+Currently working as the Co-Founder of BluPrint, an AI interior designer (Raising funds)
 
 I'm pretty active on GitHub, so reach out if you want to collab or just talk tech!
 
