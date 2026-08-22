@@ -12,8 +12,6 @@ I'm pretty active on GitHub, so reach out if you want to collab or just talk tec
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrishaTHE-PRO)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pagarwalla@wisc.edu)
 
----
-
 Thanks for visiting my profile, let me leave you with one saying:
 
 > *"Yesterday is history, tomorrow is a mystery, today is a gift. That's why it is called the present."*
