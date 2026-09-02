@@ -13,8 +13,6 @@ I'm pretty active on GitHub, so reach out if you want to collab or just talk tec
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pagarwalla@wisc.edu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://prishathe-pro.github.io/Portfolio/)
 
-Check out my portfolio: prishathe-pro.github.io/Portfolio/
-
 Thanks for visiting my profile, let me leave you with one saying:
 
 > *"Yesterday is history, tomorrow is a mystery, today is a gift. That's why it is called the present."*
