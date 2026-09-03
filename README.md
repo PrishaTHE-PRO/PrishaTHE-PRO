@@ -1,7 +1,7 @@
 <!-- ANIMATED HEADER — uses readme-typing-svg -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=const+me+%3D+%7B+passion%3A+%22code%22%2C+mode%3A+%22dark%22+%7D%3B;Full-Stack+Developer+%F0%9F%9A%80;Building+things+that+live+on+the+internet.;Open+to+collabs+%26+cool+projects+%E2%9C%A6)](https://git.io/typing-svg)
 
-### Hey! I'm Prisha
+### I'm Prisha
 
 I'm a CS student who loves to code and build stuff
 I work mostly in Python. Always looking for the next interesting tool or framework to mess around with. Hit me up if you want to collab!
